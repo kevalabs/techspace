@@ -23,9 +23,9 @@ This repository exists to:
 ### 🛠️ Container & Tooling
 - [`podman-basics.md`](./podman-basics.md) – Getting started with Podman on macOS
 
-### 🐲 TiDB (TiKV-based distributed SQL database)
-- [`tidb-single-node.md`](./tidb-single-node.md) – Dev & single-node production setup
-- [`tidb-cluster-setup.md`](./tidb-cluster-setup.md) – High availability setup (WIP)
+### 🗄️ Database
+- [`tidb-single-node.md`](./tidb-single-node.md) – TiDB dev & single-node production setup
+- [`tidb-cluster-setup.md`](./tidb-cluster-setup.md) – High availability cluster setup (WIP)
 - [`tidb-backup-restore.md`](./tidb-backup-restore.md) – Backup and restore procedures
 
 ---
