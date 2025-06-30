@@ -1,3 +1,21 @@
+# TiDB
+
+## ❓ What is TiDB?
+
+[TiDB](https://www.pingcap.com/tidb) is an open-source, distributed SQL database built to support both OLTP (Online Transactional Processing) and OLAP (Online Analytical Processing) workloads. It offers MySQL compatibility, horizontal scalability, and strong consistency with high availability out of the box.
+
+- Hybrid transactional/analytical processing (HTAP)
+- Compatible with MySQL protocols
+- Built-in horizontal scalability
+- Distributed transactions using Raft and MVCC
+- Separation of storage and compute
+
+👉 [Official TiDB Docs](https://docs.pingcap.com/tidb/stable) • [Architecture Overview](https://docs.pingcap.com/tidb/stable/tidb-architecture)
+
+---
+
+
+
 ## 🐲 Why TiDB?
 
 We chose **TiDB** to power systems that require:
